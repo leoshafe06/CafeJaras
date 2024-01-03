@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T11:11:29.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hkn4YdhpsC-ZvpJ-B3Vh" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T06:02:50.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="CkAXuQFnYV4mlqtjGi4x" version="22.1.11" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1155" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1355" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,7 +57,7 @@
           <mxGeometry x="191" y="415" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aiUU3dkIO-aQndbutRjK-3" value="Notification &lt;br&gt;(Email, CRQ and SUM patching&lt;br&gt;calendar )" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="368" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="368" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aiUU3dkIO-aQndbutRjK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" target="60e70716793133e9-5">
           <mxGeometry relative="1" as="geometry">
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aiUU3dkIO-aQndbutRjK-64" value="Application Owner Action&lt;br&gt;(Patch Install)" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;spacing=6;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="511" y="204" width="120" height="40" as="geometry" />
+          <mxGeometry x="511" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aiUU3dkIO-aQndbutRjK-66" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;strokeColor=#A8201A;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aiUU3dkIO-aQndbutRjK-60" target="aiUU3dkIO-aQndbutRjK-64">
           <mxGeometry x="-0.3953" y="-10" relative="1" as="geometry">
@@ -205,11 +205,8 @@
         <mxCell id="aiUU3dkIO-aQndbutRjK-74" value="Week 1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="914" y="70" width="20" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="aiUU3dkIO-aQndbutRjK-75" value="Week 2, 3" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="320" width="20" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="aiUU3dkIO-aQndbutRjK-76" value="Week 4" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="650" width="20" height="130" as="geometry" />
+        <mxCell id="aiUU3dkIO-aQndbutRjK-75" value="Week 2, 3 &amp;amp; 4" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="310" width="20" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
